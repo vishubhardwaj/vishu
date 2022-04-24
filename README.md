@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vishubhardwaj
-- 👀 I’m interested in Data Science, Machine learning, data mining, API, Research and food.
-- 🌱 I’m currently learning Data mining.
-- 💞️ I’m looking to collaborate on Data Science & data mining.
+- 👀 I’m interested in Web development, API, Research and food.
+- 🌱 I’m currently learning JavaScript & django.
+- 💞️ I’m looking to collaborate on Full stack web application development.
 - 📫 How to reach me - bhardwajvishu@protonmail.com
 
 <!---
