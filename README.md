@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @vishubhardwaj
-- 👀 I’m interested in Web development, API, Research and food.
-- 🌱 I’m currently learning JavaScript & django.
-- 💞️ I’m looking to collaborate on Full stack web application development.
-- 📫 How to reach me - bhardwajvishu@protonmail.com
+## About me 😄
 
-<!---
-vishubhardwaj/vishubhardwaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I'm Vishu.
+- I do Web design and development.
+- ex-Food Engineer. Hobby Artist and Gardener.
+
+### Welcome to my Github
+
+- reach out to me bhardwajvishu@protonmail.com
