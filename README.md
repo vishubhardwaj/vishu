@@ -1,10 +1,9 @@
 ## About me 😄
 
 - Hello there, I'm Vishu.
-- I do Web design and development.
-- ex-Food Engineer & Product developer. 
-- Hobby Artist and Gardener.
+- I do Web design.
+- [Portfolio](https://www.aimlessjourney.co.in/)
+- reach out to me bhardwajvishu@protonmail.com
 
 ### Welcome to my Github
-- I'm a work in progress.
-- reach out to me bhardwajvishu@protonmail.com
+- My 'CasualDev' repos are the repos I use for learning, testing and mini personal project stuff. Feel free to check them out :)
