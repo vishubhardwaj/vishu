@@ -1,7 +1,7 @@
 ## About me 😄
 
 - Hello there, I'm Vishu.
-- I do Web design.
+- Web developer
 - [Portfolio](https://www.aimlessjourney.co.in/)
 - reach out to me bhardwajvishu@protonmail.com
 
