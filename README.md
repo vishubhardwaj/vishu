@@ -2,7 +2,6 @@
 
 - Hello there, I'm Vishu.
 - Web developer
-- [Portfolio](https://www.aimlessjourney.co.in/)
 - reach out to me bhardwajvishu@protonmail.com
 
 ### Welcome to my Github
