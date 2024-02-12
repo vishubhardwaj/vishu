@@ -54,7 +54,8 @@ body {
     justify-content: center;
     align-items: center;
     background-color: black;
-    color: rgb(21, 38, 1);
+    color: rgb(64, 116, 5);
+    text-align: center;
 }
 
 header {
@@ -72,31 +73,20 @@ h1 {
 main {
     margin: 1rem 0;
     padding: 1rem 0;
-    section {
-        ul {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            list-style:none;
-            li{
-
-                span{
-                    color: rgb(177, 239, 8);
-                }
-                margin: 1rem;
-                text-align: center;
-            }
-        }
-    }
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
 }
+
 #main-pic {
-    width: min(300px, 50vw);
+    width: clamp(150px, 10vw, 300px);
     border-radius: 50%;
     box-shadow: 0 0 3rem rgba(0,0,0,0.5);
 }
 .contact {
     display: flex;
-    width: 50vw;
+    gap: 1rem;
+    width: clamp(100px, 50vw, 200px);
     margin: 2rem 0;
     justify-content: space-between;
     align-items: center;
@@ -104,6 +94,7 @@ main {
     border-radius: 1rem;
     padding: 2vh 5vw 2vh 3.5vw;
 }
+
 .contact:hover {
     background-color: rgba(0,0,0,0.5);
     border-radius: 1rem;
@@ -111,4 +102,18 @@ main {
 .logo {
     border-radius: 50%;
     color: rgb(177, 239, 8);
+}
+#section_tools {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+#section_tools ul {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 3vw;
+}
+
+#hsForm_6beb91e2-78c3-409d-a7f0-827a40e19836 > div.hs-form__virality-link > iframe{
+    display: none;
 }
