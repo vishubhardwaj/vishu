@@ -113,7 +113,3 @@ main {
     flex-wrap: nowrap;
     gap: 3vw;
 }
-
-#hsForm_6beb91e2-78c3-409d-a7f0-827a40e19836 > div.hs-form__virality-link > iframe{
-    display: none;
-}
